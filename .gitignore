@@ -1,0 +1,11 @@
+# Arquivos e diretórios gerados pelo Tailwind CSS
+/node_modules
+/dist
+
+# Arquivos de compilação
+*.css
+*.js
+
+# Arquivos de configuração do Tailwind CSS
+tailwind.config.js
+postcss.config.js
